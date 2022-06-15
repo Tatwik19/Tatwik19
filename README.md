@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tatwik19
+- 👋 Hi, I’m @Tatwik19 Sai Srinivas Tatwik Meesala
 - 👀 I’m interested in Robotic system Integration
 - 🌱 I’m currently learning Robotics 
 - 💞️ I’m looking to collaborate on ...
