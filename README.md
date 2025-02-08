@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tatwik19 Tatwik Meesala
 - 👀 I’m interested in Robotic
-- 📫 How to reach me tatwik[dot][first-letter-of-my-last-name][dot]19[at]gmail[dot]com
+- 📫 How to reach me tatwik[dot][first-letter-of-my-last-name][dot]19[at]gmail[dot]com <br />
 [Personal Website](https://tatwik19.github.io/)
 
 <!---
